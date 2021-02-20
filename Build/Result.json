@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "LevelTest",
+"productName": "WalkingSimulator",
 "productVersion": "0.1",
 "dataUrl": "Result.data.unityweb",
 "wasmCodeUrl": "Result.wasm.code.unityweb",
